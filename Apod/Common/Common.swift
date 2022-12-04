@@ -21,6 +21,7 @@ struct Constants {
     static let FavVC_Sb_Id = "FavouriteVC"
     static let Fav_Button_Title = "Add To Favourite"
     static let Fav_Button_Selected_Title = "Added To Favourite"
+    static let Goto_Fav = "Go To Favourite"
     static let PlaceHolder_Image_Title = "PlaceHolder"
     static let Reuse_ID = "Cell"
     

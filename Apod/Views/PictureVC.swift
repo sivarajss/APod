@@ -60,7 +60,7 @@ class PictureVC: UIViewController,PictureViewModelDelegate {
             self?.addToFav.setTitle(Constants.Fav_Button_Title, for: .normal)
             self?.addToFav.isHidden = false
             self?.goToFav.isHidden = false
-            self?.goToFav.setTitle(Constants.Fav_Button_Selected_Title, for: .normal)
+            self?.goToFav.setTitle(Constants.Goto_Fav, for: .normal)
         }
         favPic = picModel
     }
